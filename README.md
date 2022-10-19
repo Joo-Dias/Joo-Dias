@@ -1,7 +1,6 @@
 ### Olá, me chamo João 👋 
 
 - 🌱 Estou sempre aprendendo algo novo!
-- 🥅 Metas para 2022: Aprimorar minhas habilidades como desenvolvedor e conseguir meu primeiro emprego.
 - ⚡ Uma curiosidade sobre mim: Amo desenhar e ouvir músicas.
 
 ### Conecte-se comigo:
