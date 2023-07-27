@@ -1,5 +1,9 @@
 ### Olá, me chamo João 👋 
 
+Desde pequeno sempre gostei de video games e computadores, quando cresci não mudei e continuo explorando essa paixão pela tecnologia!
+
+- 👩‍💻 Técnico em Desenvolvimento de Sistemas.
+- 📚 Estudando Análise e Desenvolvimento de Sistemas.
 - 🌱 Estou sempre aprendendo algo novo!
 - ⚡ Uma curiosidade sobre mim: Amo desenhar e ouvir músicas.
 
