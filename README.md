@@ -1,6 +1,8 @@
-### Olá, me chamo João 👋 
-
+# Olá, me chamo João Dias! 👋
 Desde pequeno sempre gostei de video games e computadores, quando cresci não mudei e continuo explorando essa paixão pela tecnologia!
+
+## 🚀 Sobre mim
+Gosto muito de ouvir música e passar o tempo com minha família! Estou estudando para me tornar um desenvolvedor Full-Stack no futuro!
 
 - 👩‍💻 Técnico em Desenvolvimento de Sistemas.
 - 📚 Estudando Análise e Desenvolvimento de Sistemas.
@@ -11,34 +13,22 @@ Desde pequeno sempre gostei de video games e computadores, quando cresci não mu
 
   <a href="mailto:joaovictorsoaresdias11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-dias-269b76208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/jdiasssZ_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/oaojvitu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/oaojvicto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <br />
 
-### Linguagens e Ferramentas:
+## Stacks utilizadas
 
-<div style="display: inline_block">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="right" alt="yoda" src="https://i.picasion.com/pic91/efcbe89bead9f4c5444fb7a7e3449a36.gif" width="110px">
-</div>
+**Front-end:** ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 
-<br />
+**Back-end:** ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-<div>
-  <a href="https://github.com/Joo-Dias">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joo-Dias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joo-Dias&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  ##
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joo-Dias&theme=transparent&bg_color=000&border_color=3f00ff&show_icons=true&icon_color=3f00ff&title_color=3f00ff&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joo-Dias&layout=compact&bg_color=000&border_color=3f00ff&title_color=3f00ff&text_color=FFF)
