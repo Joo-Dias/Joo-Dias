@@ -5,7 +5,7 @@ Desde pequeno sempre gostei de video games e computadores, quando cresci não mu
 Gosto muito de ouvir música e passar o tempo com minha família! Estou estudando para me tornar um desenvolvedor Full-Stack no futuro!
 
 - 👩‍💻 Técnico em Desenvolvimento de Sistemas.
-- 📚 Estudando Análise e Desenvolvimento de Sistemas.
+- 📚 Graduado em Análise e Desenvolvimento de Sistemas.
 - 🌱 Estou sempre aprendendo algo novo!
 - ⚡ Uma curiosidade sobre mim: Amo desenhar e ouvir músicas.
 
